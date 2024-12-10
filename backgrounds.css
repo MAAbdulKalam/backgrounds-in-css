@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    color: rgb(13, 27, 227);
+    border: 1px solid transparent;
+    background-color: cornsilk;
+    border-radius: 50%;
+    box-shadow: 20px 20px 5px rgb(16, 3, 189);
+    margin-bottom: 50px;
+}
+.Container{
+    border: 3px dotted maroon;
+    height: 150px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    background-repeat: no-repeat;
+}
+.main_class1{
+    background-image: url(../assets/marvelsImages/spiderman.jpg);
+    color: rgb(71, 160, 130);
+    background-color: paleturquoise;
+}
+.main_class2{
+    background-image: url(../assets/rajinikanth/rajini2.jpg);
+    background-position: right;
+    color: rebeccapurple;
+    background-color: lightgray;
+}
+.main_class3{
+    background-image: url(../assets/marvelsImages/iron\ man.jpg);
+    background-position: center;
+    color: green;
+    background-color: rgb(142, 191, 234);
+}
+.main_class4{
+    background-image: url(../assets/wallpaper/beach_birds.jpg);
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+    color: blue;
+    align-content: center;
+}
